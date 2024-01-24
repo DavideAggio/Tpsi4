@@ -1,2 +1,3 @@
 creato file e inserita prima riga del file
 domani è giovedì
+dopodomani è venerdì
